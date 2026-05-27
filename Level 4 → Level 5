@@ -7,6 +7,7 @@ Commands you may need to solve this level
 
 ls , cd , cat , file , du , find
 
-ssh bandit4@bandit.labs.overthewire.org -p 2220
-password: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+ssh bandit5@bandit.labs.overthewire.org -p 2220
+password: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
 
