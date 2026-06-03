@@ -14,4 +14,5 @@ Helpful Reading Material
     Transferring Files via SCP
 
 ssh -i sshkey.private -p 2220 bandit14@bandit.labs.overthewire.org
+MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 
